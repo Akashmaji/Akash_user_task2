@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- Background rectangle -->
+  <rect width="100%" height="100%" fill="white" />
+
+  <!-- Letter "A" -->
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="40" fill="red" font-weight="bold" text-anchor="middle" alignment-baseline="middle">
+    A
+  </text>
+
+  <!-- Border for the letter "A" -->
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="40" fill="blue" font-weight="bold" text-anchor="middle" alignment-baseline="middle" stroke="blue" stroke-width="3">
+    A
+  </text>
+</svg>
